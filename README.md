@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a UX Specialist with 4+ years of experience in project management. I'm actively growing my Ruby skills to add to my front-end tech stack.
+Hi! I’m a Technical Project Manager and UX Specialist transitioning into Ruby on Rails backend development. Coding feels like solving a new puzzle every day, and I love the challenge of turning ideas into impactful, real-world results. I have hands-on experience in Ruby and am eager to continue growing in a backend dev role.
 
 
 ## 🌐 Socials:
