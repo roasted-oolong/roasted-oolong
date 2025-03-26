@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m a Technical Project Manager and UX Specialist learning Full Stack Development. Coding feels like solving a new puzzle every day, and I love the challenge of turning ideas into impactful, real-world results. I have hands-on experience in HTML, CSS, JS, and Ruby and am eager to continue growing in a backend dev role.
+Hi! I’m a Technical Project Manager and UX Specialist learning Full Stack Development.
 
 
 ## 🌐 Socials:
