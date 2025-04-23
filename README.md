@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m a Technical Project Manager and UX Specialist learning Full Stack Development.
+Hi! I’m a Project Manager in QA and UX Specialist learning Full Stack Development.
 
 
 ## 🌐 Socials:
