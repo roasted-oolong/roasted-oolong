@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi! I’m a Project Manager in QA and UX Specialist learning Full Stack Development.
 
+# Portfolio
+https://jennaleedev.framer.website/
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenna-h-lee) 
