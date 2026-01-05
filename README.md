@@ -7,7 +7,6 @@ https://jennaleedev.framer.website/
 
 ## 🌐 My Projects:
 - [ruby-basic-projects](https://github.com/roasted-oolong/ruby-basic-projects)
-- [tic-tac-toe](https://github.com/roasted-oolong/ruby-basic-projects](https://github.com/roasted-oolong/tic-tac-toe))
 - [mastermind](https://github.com/roasted-oolong/ruby-basic-projects](https://github.com/roasted-oolong/mastermind))
 - [build a blog using astro](https://dainty-entremet-014c1e.netlify.app/)
 - [Pexels API - Ruby on Rails](https://github.com/roasted-oolong/pexels-api)
