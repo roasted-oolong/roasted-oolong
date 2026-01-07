@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi! I’m a Project Manager in QA and UX Specialist learning Full Stack Development.
 
-# Portfolio
-https://jennaleedev.framer.website/
+# UX Portfolio
+https://jennaleedev.framer.website/https://jennaleetea.framer.website/
 
 
-## 🌐 My Projects:
+## 🌐 My Coding Projects:
 - [build a blog using astro](https://dainty-entremet-014c1e.netlify.app/)
 - [ruby-basic-projects](https://github.com/roasted-oolong/ruby-basic-projects)
 - [mastermind - Ruby](https://github.com/roasted-oolong/mastermind)
