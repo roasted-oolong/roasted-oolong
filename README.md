@@ -5,11 +5,11 @@ Hi! I’m a Project Manager in QA and UX Specialist learning Full Stack Developm
 https://jennaleetea.framer.website/
 
 ## 🌐 My Coding Projects:
-- [build a blog using astro](https://dainty-entremet-014c1e.netlify.app/)
-- [ruby-basic-projects](https://github.com/roasted-oolong/ruby-basic-projects)
+- [astro-blog](https://github.com/roasted-oolong/astro-blog) - https://dainty-entremet-014c1e.netlify.app/
+- [data-structures-ruby](https://github.com/roasted-oolong/data-structures-ruby)
 - [mastermind - Ruby](https://github.com/roasted-oolong/mastermind)
-- [Pexels API - Ruby on Rails](https://github.com/roasted-oolong/pexels-api)
-- [Members Only - Ruby on Rails](https://github.com/roasted-oolong/members-only)
+- [Pexels API - Ruby on Rails](https://github.com/roasted-oolong/photo-search-rails-api)
+- [Members Only - Ruby on Rails](https://github.com/roasted-oolong/members-only-rails-auth)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white)
